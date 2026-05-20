@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="playlist">Playlist</string>
+    <string name="no_songs">No songs found</string>
+    <string name="scanning">Scanning music…</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+    <string name="switch_language">Switch Language</string>
+    <string name="notification_channel">Music Playback</string>
+    <string name="notification_title">Music Player</string>
+</resources>
