@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音乐播放器</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="next">下一首</string>
+    <string name="previous">上一首</string>
+    <string name="playlist">播放列表</string>
+    <string name="no_songs">暂无歌曲</string>
+    <string name="scanning">正在扫描…</string>
+    <string name="unknown_artist">未知艺术家</string>
+    <string name="unknown_album">未知专辑</string>
+    <string name="switch_language">切换语言</string>
+    <string name="notification_channel">音乐播放</string>
+    <string name="notification_title">音乐播放器</string>
+</resources>
